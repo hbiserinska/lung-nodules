@@ -14,4 +14,4 @@ results when applied in the medical domain. The nodule detection with this singl
 and the right contrast enhancement technique resulted in low false positives with reasonably high
 sensitivity.
 
-##### Access to the dataset can be requested from the following link: https://lndb.grand-challenge.org/
+#### Access to the dataset can be requested from the following link: https://lndb.grand-challenge.org/
