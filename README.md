@@ -1,4 +1,4 @@
-# YOLO Models for Automatic Lung Nodules Detection from CT Scans
+# YOLO v3 and v4 for Automatic Lung Nodules Detection from CT Scans
 In this work, I propose an application of an object detection algorithm - You Only Look
 Ones (YOLO) for lung nodules detection from Computed Tomography (CT) scans. YOLO
 is a convolutional neuron network, pre-trained on ImageNet, and usually used for real-time
