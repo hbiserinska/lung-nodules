@@ -15,3 +15,6 @@ and the right contrast enhancement technique resulted in low false positives wit
 sensitivity.
 
 #### Access to the dataset can be requested from the following link: https://lndb.grand-challenge.org/
+
+#### Project summary:
+- flow_chart.png gives a visual overview of the project and the image enhencement techniques used.
