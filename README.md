@@ -23,3 +23,4 @@ sensitivity.
   - extraction of the **image of interest** (containing the nodule's centroid)
   - application of the 3 pre-processing **image enhancement pipelines** and saving the resultant images as .jpg (input for the model)
   - preparing yolo compatible **label files** with the nodules coordinates
+- ***yolo.ipynb*** explains the steps and runs the YOLO-v3 and YOLO-v4 repository by [AlexeyAB](https://github.com/AlexeyAB/darknet).
