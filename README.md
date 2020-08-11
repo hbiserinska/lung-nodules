@@ -25,8 +25,8 @@ sensitivity.
   - preparing yolo compatible **label files** with the nodules coordinates
 - ***yolo.ipynb*** explains the steps and runs the YOLO-v3 and YOLO-v4 repository by [AlexeyAB](https://github.com/AlexeyAB/darknet).
 - ***folder yolo_files*** contains the yolo compatible files:
-  - **obj.data**
-  - **obj.names**
-  - **train.txt**
-  - **text.txt**
-  - **obj.zip**
+  - **obj.data** - file paths
+  - **obj.names** - the name of the object we want to detect
+  - **train.txt** - image name part of the train dataset
+  - **text.txt** - image name part of the test dataset
+  - **obj.zip** - label files with coordinates of the nodules
